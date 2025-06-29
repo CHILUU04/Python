@@ -1,0 +1,5 @@
+min_support,min_confidence,num_freq_itemsets,num_rules
+0.6,0.85,19,30
+0.6,0.9,19,30
+0.8,0.85,7,9
+0.8,0.9,7,9
